@@ -19,6 +19,10 @@ public class HolaMundo {
 		System.out.println("El método PRO");
 	}
 	
+	public boolean pegarAXavi( boolean pegarpegarpegar ) {
+		return true;
+	}
+	
 	public static void main(String[] args) {
 		
 		HolaMundo hola = new HolaMundo();
