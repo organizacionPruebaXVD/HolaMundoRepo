@@ -18,9 +18,6 @@ public class HolaMundo {
 		System.out.println( "Task 1" );
 		System.out.println("2");
 		
-		System.out.println( "Estoy hasta los huevos de esto :)" );
-		System.out.println(";)");
-		
 		System.out.println( "JODER POR FIN!!!" );
 		
 		System.out.println("X");
