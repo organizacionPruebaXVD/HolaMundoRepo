@@ -10,6 +10,11 @@ public class HolaMundo {
 		System.out.println( "Hola mundo" );
 	}
 	
+	
+	public boolean pegarADavid(boolean si) {
+		return si;
+	}
+	
 	public static void main(String[] args) {
 		
 		HolaMundo hola = new HolaMundo();
