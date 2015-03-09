@@ -24,6 +24,10 @@ public class HolaMundo {
 	}
 	
 	
+	public boolean pegarAXavi( boolean pegarpegarpegar ) {
+		return true;
+	}
+	
 	public static void main(String[] args) {
 		
 		HolaMundo hola = new HolaMundo();
