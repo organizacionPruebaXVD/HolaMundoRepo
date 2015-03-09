@@ -22,6 +22,9 @@ public class HolaMundo {
 		
 		System.out.println("L");
 		
+		
+		System.out.println("P");
+		
 	}
 
 }
