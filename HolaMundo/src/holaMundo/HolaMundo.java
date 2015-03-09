@@ -10,6 +10,10 @@ public class HolaMundo {
 		System.out.println( "Hola mundo" );
 	}
 	
+	public void david() {
+		System.out.println("El método PRO");
+	}
+	
 	public static void main(String[] args) {
 		
 		HolaMundo hola = new HolaMundo();
@@ -24,6 +28,9 @@ public class HolaMundo {
 		
 		
 		System.out.println("P");
+		
+		hola.david();
+		
 		
 	}
 
