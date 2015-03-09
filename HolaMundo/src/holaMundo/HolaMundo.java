@@ -19,6 +19,11 @@ public class HolaMundo {
 		System.out.println("El método PRO");
 	}
 	
+	public static void xavi() {
+		System.out.println("Hola");
+	}
+	
+	
 	public static void main(String[] args) {
 		
 		HolaMundo hola = new HolaMundo();
@@ -26,6 +31,8 @@ public class HolaMundo {
 		
 		System.out.println( "Task 1" );
 		System.out.println("2");
+		
+		xavi();
 		
 		System.out.println( "JODER POR FIN!!!" );
 		
