@@ -16,6 +16,7 @@ public class HolaMundo {
 		hola.holaMundo();
 		
 		System.out.println( "Task 1" );
+		System.out.println("2");
 		
 	}
 
