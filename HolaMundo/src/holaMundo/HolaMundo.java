@@ -19,6 +19,11 @@ public class HolaMundo {
 		System.out.println("El método PRO");
 	}
 	
+	public static void xavi() {
+		System.out.println("Hola");
+	}
+	
+	
 	public boolean pegarAXavi( boolean pegarpegarpegar ) {
 		return true;
 	}
@@ -30,6 +35,8 @@ public class HolaMundo {
 		
 		System.out.println( "Task 1" );
 		System.out.println("2");
+		
+		xavi();
 		
 		System.out.println( "JODER POR FIN!!!" );
 		
