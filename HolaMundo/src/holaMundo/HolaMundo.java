@@ -40,18 +40,9 @@ public class HolaMundo {
 		
 		System.out.println( "JODER POR FIN!!!" );
 		
-		System.out.println("L");
+		System.out.println("ADIOS");
 		
 		
-		System.out.println("P");
-		
-		hola.david();
-		
-		hola.pegarAXavi(true);
-		
-		System.out.println( "mi rama(david)" );
-		
-		System.out.println( "ultimo cambio" );
 		
 		
 	}
