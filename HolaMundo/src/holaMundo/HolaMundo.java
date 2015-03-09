@@ -40,6 +40,8 @@ public class HolaMundo {
 		
 		hola.david();
 		
+		hola.pegarAXavi(true);
+		
 		
 	}
 
